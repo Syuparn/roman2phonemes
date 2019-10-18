@@ -4,9 +4,13 @@
 # 使い方
 ヘボン式ローマ字を母音、子音ごとにスペースで区切ります。
 
+input text file:
+
 ```:input.txt
 konnichiwa sekai
 ```
+
+output text file:
 
 ```:output.txt
 k o n n i ch i w a s e k a i 
